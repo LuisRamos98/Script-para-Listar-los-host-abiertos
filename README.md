@@ -1,4 +1,4 @@
-# Ping Sweep
+# Host Scan
 
 This script performs a ping sweep on the local network to identify active hosts. It sends ICMP echo requests (pings) to a range of IP addresses and displays the active hosts.
 
@@ -14,7 +14,7 @@ This script performs a ping sweep on the local network to identify active hosts.
 3. Run the following command:
 
    ```bash
-   ./ping_sweep.sh
+   ./hostScan.sh
    ```
 
 ## Description
